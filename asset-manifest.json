@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/qeatech/static/css/main.662fd0a2.css",
-    "main.js": "/qeatech/static/js/main.6a11ccd3.js",
+    "main.js": "/qeatech/static/js/main.a519c903.js",
     "index.html": "/qeatech/index.html"
   },
   "entrypoints": [
     "static/css/main.662fd0a2.css",
-    "static/js/main.6a11ccd3.js"
+    "static/js/main.a519c903.js"
   ]
 }
